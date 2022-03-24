@@ -1,6 +1,8 @@
 ## Olá! Eu sou a Maria Eduarda Rodrigues, estudante de programação e caloura em Sistemas de Informação!
 
-- 🌱 Estudando HTML e Python
+- 🔭 Caloura de S.I
+- 🌱 Estudando HTMl e CSS
+- 📫 Email:crmariaeduarda2003@gmail.com
 - 😄 Pronouns: ela/dela
 
 <div align="center">
