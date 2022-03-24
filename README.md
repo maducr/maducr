@@ -1,4 +1,4 @@
-## Olá! Eu sou a Maria Eduaarda Rodriggues, estudante de programação e caloura em Sistemas de Informação!
+## Olá! Eu sou a Maria Eduarda Rodrigues, estudante de programação e caloura em Sistemas de Informação!
 
 - 🌱 Estudando HTML e Python
 - 😄 Pronouns: ela/dela
