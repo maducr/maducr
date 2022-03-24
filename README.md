@@ -2,7 +2,7 @@
 
 - 🔭 Caloura de S.I
 - 🌱 Estudando HTMl e CSS
-- 📫 Email:crmariaeduarda2003@gmail.com
+- 📫 Email: crmariaeduarda2003@gmail.com
 - 😄 Pronouns: ela/dela
 
 <div align="center">
