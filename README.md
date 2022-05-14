@@ -1,7 +1,7 @@
-## Olá! Eu sou a Maria Eduarda Rodrigues, estudante de programação e caloura em Sistemas de Informação!
+## Hi! I'm Maria Eduarda Rodrigues, programming student and freshman in Information Systems!
 
-- 🔭 Caloura de S.I
-- 🌱 Estudando HTMl e CSS
+- 🔭 Information Systems Freshman
+- 🌱 Studying HTML and CSS
 - 📫 Email: crmariaeduarda2003@gmail.com
 - 😄 Pronouns: ela/dela
 
