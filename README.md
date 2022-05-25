@@ -2,6 +2,7 @@
 
 - 🔭 Information Systems Freshman
 - 🌱 Studying HTML and CSS
+- 📙 Basic knowledge of HTML and CSS
 - 📫 Email: crmariaeduarda2003@gmail.com
 - 😄 Pronouns: ela/dela
 
