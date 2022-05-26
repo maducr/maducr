@@ -4,7 +4,7 @@
 - 🌱 Studying HTML and CSS
 - 📙 Basic knowledge of HTML and CSS
 - 📫 Email: crmariaeduarda2003@gmail.com
-- 😄 Pronouns: ela/dela
+- 😄 Pronouns: she/her
 
 <div align="center">
   <a href="https://github.com/maducr">
