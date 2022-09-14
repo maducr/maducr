@@ -1,4 +1,4 @@
-## Hi! I'm Maria Eduarda Rodrigues, programming student and freshman in Information Systems!
+## Hi! Hi! I'm Maria Eduarda Rodrigues, programming student and I'm studying Information Systems!
 
 - 🔭 Information Systems Freshman
 - 🌱 Studying HTML and CSS
