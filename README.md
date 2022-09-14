@@ -1,7 +1,7 @@
-## Hi! Hi! I'm Maria Eduarda Rodrigues, programming student and I'm studying Information Systems!
+## Hi! I'm Maria Eduarda Rodrigues, programming student and I'm studying Information Systems!
 
 - 🔭 Information Systems Freshman
-- 🌱 Studying HTML and CSS
+- 🌱 Studying JavaScript
 - 📙 Basic knowledge of HTML and CSS
 - 📫 Email: crmariaeduarda2003@gmail.com
 - 😄 Pronouns: she/her
