@@ -4,10 +4,8 @@
 </div>
 
 - 🔭 Information Systems Freshman
-- 🌱 Front-end student
 - 📙 Basic knowledge of HTML, CSS and JavaScript
 - 📫 Email: crmariaeduarda2003@gmail.com
-- 😄 Pronouns: she/her
 
 ---
 
