@@ -3,7 +3,6 @@
   <img align="right" alt="Gif-mad" height="150" src="https://cdn.discordapp.com/attachments/936426789981528095/956640054472761504/giphy.gif"/>
 </div>
 
-- 🔭 Information Systems Freshman
 - 📙 Basic knowledge of HTML, CSS and JavaScript
 - 📫 Email: crmariaeduarda2003@gmail.com
 
