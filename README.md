@@ -1,6 +1,5 @@
 <div>
   <h2>Hi! I'm Maria Eduarda Rodrigues!</h2>
-  <img max-width="45%" height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maducr&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 
@@ -15,3 +14,10 @@
   <img align="center" alt="mad-php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
 </div>
 
+---
+
+### 🚀 Let's Connect!
+- 📫: [crmariaeduarda2003@gmail.com](mailto:crmariaeduarda2003@gmail.com)
+- 🔗[LinkedIn](https://www.linkedin.com/in/maducr/)
+
+<img max-width="55%" height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maducr&layout=compact&langs_count=7&theme=dracula"/>
