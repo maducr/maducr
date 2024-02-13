@@ -1,14 +1,8 @@
 <div>
   <h2>Hi! I'm Maria Eduarda Rodrigues!</h2>
-</div>
-
----
-
-<div align="center">
   <img max-width="45%" height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maducr&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
----
 
 ###  🛠 Ferramentas 🛠
 
