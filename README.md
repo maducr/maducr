@@ -2,7 +2,7 @@
 
 ### Análise de Dados | SIG | Geoprocessamento
 
-Bem-vindo ao meu perfil! Sou Maria Eduarda Rodrigues, atuo na área de análise de dados e geoprocessamento, utilizando ferramentas como QGIS, GeoPandas, PostgreSQL, entre outras tecnologias voltadas para análise espacial e soluções analíticas. Estou sempre em busca de novos desafios e projetos que envolvem dados geoespaciais.
+Bem-vindo ao meu perfil! Sou Maria Eduarda Rodrigues, atuo com geoprocessamento e análise de dados, utilizando ferramentas como QGIS, GeoPandas, PostgreSQL, entre outras tecnologias. Embora meu foco seja em dados geoespaciais, também trabalho com análise de dados de diversas áreas, oferecendo soluções precisas e eficazes para otimizar a tomada de decisões. Com o objetivo de tornar projetos mais fluídos e eficientes, busco agregar valor e melhorar os resultados da sua empresa, adaptando-me às necessidades específicas de cada projeto.
 
 ---
 
