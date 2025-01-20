@@ -12,10 +12,7 @@ Bem-vindo ao meu perfil! Sou Maria Eduarda Rodrigues, atuo com geoprocessamento 
   <img align="center" alt="Python" height="35" width="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png">
   <img align="center" alt="QGIS" height="35" width="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/QGIS_logo_new.svg/2048px-QGIS_logo_new.svg.png">
   <img align="center" alt="GeoPandas" height="35" width="105" src="https://geopandas.org/en/stable/_images/geopandas_logo.png">
-  <img align="center" alt="Leaflet" height="35" width="85" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Leaflet_logo.svg/2560px-Leaflet_logo.svg.png">
   <img align="center" alt="PostgreSQL" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
-  <img align="center" alt="Google Earth Engine" height="35" width="35" src="https://cdn.icon-icons.com/icons2/1508/PNG/512/googleearth-engine_104576.png">
-  <img align="center" alt="R" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg">
   <img align="center" alt="Power BI" height="35" width="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/1200px-New_Power_BI_Logo.svg.png">
   <img align="center" alt="JavaScript" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
