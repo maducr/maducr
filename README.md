@@ -9,6 +9,7 @@ Bem-vindo ao meu perfil! Sou Maria Eduarda Rodrigues, atuo com geoprocessamento 
 ### 🛠 Tecnologias e Ferramentas
 
 <div align="center">
+  <img align="center" alt="Python" height="35" width="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png">
   <img align="center" alt="QGIS" height="35" width="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/QGIS_logo_new.svg/2048px-QGIS_logo_new.svg.png">
   <img align="center" alt="GeoPandas" height="35" width="105" src="https://geopandas.org/en/stable/_images/geopandas_logo.png">
   <img align="center" alt="Leaflet" height="35" width="85" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Leaflet_logo.svg/2560px-Leaflet_logo.svg.png">
