@@ -10,9 +10,10 @@ Atualmente, estou expandindo meus horizontes para a **Engenharia de Dados Cloud*
 
 <br clear="right">
 
-<div align="center">
+---
 
 ## 🛠️ Tech Stack
+<div align="center">
 
 | Categoria | Tecnologias |
 | :--- | :--- |
