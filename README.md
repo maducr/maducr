@@ -5,7 +5,7 @@
 
 <img src="./assets/octocat.png" align="right" width="200" alt="Octocat">
 
-### Analista de Dados | Geoprocessamento & Modelagem de Dados
+### 👩🏻‍💻 Analista de Dados | Geoprocessamento & Modelagem de Dados
 
 Sou acadêmica de **Sistemas de Informação**, focada em transformar grandes volumes de dados brutos em inteligência geográfica e soluções de impacto real para a tomada de decisão. Possuo uma base sólida em modelagem de dados, análise espacial e administração de bancos de dados relacionais.
 
@@ -55,7 +55,7 @@ Atualmente, sou estagiária de **Análise de Dados Geoespaciais e Modelagem de B
     <td>
       <strong>Python & Cloud Computing: TCGeo-RO</strong><br>
       <em>Plataforma estratégica de suporte à decisão e fiscalização baseada em dados geoespaciais e inteligência geográfica.</em><br>
-      <a href="https://app.tcgeo.tcero.tc.br/">🔗 Explorar Plataforma</a>
+      <a href="https://app.tcgeo.tcero.tc.br/" target="_blank">🔗 Explorar Plataforma</a>
     </td>
   </tr>
   
@@ -66,7 +66,7 @@ Atualmente, sou estagiária de **Análise de Dados Geoespaciais e Modelagem de B
     <td>
       <strong>Monitoramento Ambiental: Painel do Fogo</strong><br>
       <em>Atuação técnica na manutenção de plataforma geoespacial para detecção e monitoramento de eventos de fogo na Amazônia (Censipam).</em><br>
-      <a href="https://panorama.sipam.gov.br/painel-do-fogo/">🔗 Ver Painel</a>
+      <a href="https://panorama.sipam.gov.br/painel-do-fogo/" target="_blank">🔗 Ver Painel</a>
     </td>
   </tr>
 
@@ -77,7 +77,7 @@ Atualmente, sou estagiária de **Análise de Dados Geoespaciais e Modelagem de B
     <td>
       <strong>Artigo Científico: GEOINFO 2023</strong><br>
       <em>Análise de distúrbios de larga escala (blowdowns) na Amazônia utilizando Sensoriamento Remoto e Processamento Digital de Imagens.</em><br>
-      <a href="https://www.researchgate.net/publication/378333399_Remote_Sensing_Image_analysis_of_the_largest_blowdown_disturbance_in_the_southwestern_Brazilian_Amazon">📖 Ler Publicação</a>
+      <a href="https://www.researchgate.net/publication/378333399_Remote_Sensing_Image_analysis_of_the_largest_blowdown_disturbance_in_the_southwestern_Brazilian_Amazon" target="_blank">📖 Ler Publicação</a>
     </td>
   </tr>
 </table>
