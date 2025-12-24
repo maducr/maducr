@@ -6,55 +6,6 @@ Sou acadêmica de **Sistemas de Informação**, focada em transformar grandes vo
 
 Atualmente, estou expandindo meus horizontes para a **Engenharia de Dados Cloud** e **IA**, buscando arquitetar pipelines escaláveis que unam inteligência analítica e visão geoespacial.
 
-🛰️ ─── 📝 ─── 💾 ─── 🤖 ─── ☁️
-
----
-
-## 🛠️ Meu Arsenal Técnico
-
-<p align="left">
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostGIS-316192?style=for-the-badge&logo=postgis&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-</p>
-
-| Categoria | Stack & Ferramentas |
-| :--- | :--- |
-| **🛰️ Geoespacial** | `PostGIS` `GeoServer` `QGIS` `Sensoriamento Remoto` |
-| **💾 Dados & BD** | `PostgreSQL` `MySQL` `SQL Server` `Modelagem de Dados` |
-| **📊 BI & Analytics** | `Power BI Avançado` `Análise Espacial` `Limpeza de Dados` |
-| **💻 Dev & Cloud** | `Python` `PHP` `Laravel` `Cloud Computing Foundations` |
-| **🤖 IA & Prompting**| `Engenharia de Prompt` `Estratégias de IA Generativa` |
-
----
-
-## 📈 Trajetória e Impacto
-
-* **TCE-RO:** Atuo na modelagem de dados críticos e na administração da plataforma **[TCGeo-RO](https://app.tcgeo.tcero.tc.br/)**, gerenciando bancos de dados relacionais e espaciais para suporte à fiscalização.
-* **Censipam:** Atuação técnica na manutenção e suporte do **[Painel do Fogo](https://panorama.sipam.gov.br/painel-do-fogo/)**, monitorando dados geoespaciais estratégicos para a proteção da Amazônia.
-* **Coautoria Científica:** Publicação no **GEOINFO 2023** do artigo: *[Remote Sensing Image analysis of the largest blowdown disturbance](https://www.researchgate.net/publication/378333399_Remote_Sensing_Image_analysis_of_the_largest_blowdown_disturbance_in_the_southwestern_Brazilian_Amazon_The_case_of_Pacaas_Novos_National_Park)*.
-* **Brasil Digital Telecom:** Experiência com arquitetura de dados MySQL, backend em Laravel e dashboards de performance em Power BI.
-
----
-
-## 🚀 Roadmap de Evolução
-
-| Status | Meta | Foco Técnico |
-| :---: | :--- | :--- |
-| 🎓 | **Sistemas de Informação** | Conclusão da Graduação |
-| ✅ | **Cloud Foundations** | Certificação em Fundamentos de Cloud |
-| 🏗️ | **Data Engineering** | PySpark, Airflow e Pipelines de Dados |
-| 🤖 | **MLOps & GeoAI** | Deploy de modelos de IA aplicados ao Geo |
-| 🌍 | **Carreira Global** | Atuação 100% Remota e Liberdade Financeira |
-
----
-
-## 📊 Estatísticas (Python & SQL Focus)
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maducr&layout=compact&langs_count=7&theme=dracula" />
-</p>
 
 ---
 
