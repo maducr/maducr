@@ -20,6 +20,45 @@ Atualmente, estou expandindo meus horizontes para a **Engenharia de Dados Cloud*
 
 ---
 
+## 🚀 Projetos em Destaque
+
+<table>
+  <tr>
+    <td>
+      <img src="./assets/tcgeo.png" width="280px" style="border-radius: 10px;" alt="TCGeo-RO">
+    </td>
+    <td>
+      <strong>Python & Cloud Computing: TCGeo-RO</strong><br>
+      <em>Plataforma estratégica de suporte à decisão e fiscalização baseada em dados geoespaciais e inteligência geográfica.</em><br><br>
+      <a href="https://app.tcgeo.tcero.tc.br/">🔗 Explorar Plataforma</a>
+    </td>
+  </tr>
+  
+  <tr>
+    <td>
+      <img src="./assets/painel_do_fog.png" width="280px" style="border-radius: 10px;" alt="Painel do Fogo">
+    </td>
+    <td>
+      <strong>Monitoramento Ambiental: Painel do Fogo</strong><br>
+      <em>Atuação técnica na manutenção de plataforma geoespacial para detecção e monitoramento de eventos de fogo na Amazônia (Censipam).</em><br><br>
+      <a href="https://panorama.sipam.gov.br/painel-do-fogo/">🔗 Ver Painel</a>
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <img src="./assets/artigo.png" width="280px" style="border-radius: 10px;" alt="Artigo GEOINFO">
+    </td>
+    <td>
+      <strong>Artigo Científico: GEOINFO 2023</strong><br>
+      <em>Análise de distúrbios de larga escala (blowdowns) na Amazônia utilizando Sensoriamento Remoto e Processamento Digital de Imagens.</em><br><br>
+      <a href="https://www.researchgate.net/publication/378333399_Remote_Sensing_Image_analysis_of_the_largest_blowdown_disturbance_in_the_southwestern_Brazilian_Amazon">📖 Ler Publicação</a>
+    </td>
+  </tr>
+</table>
+
+---
+
 ## 📈 Trajetória e Impacto
 
 Atualmente, sou estagiária de **Análise de Dados Geoespaciais e Modelagem de BD** no **TCE-RO**. Minha atuação é focada na intersecção entre tecnologia, gestão pública e sustentabilidade:
