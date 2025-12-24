@@ -25,7 +25,7 @@ Atualmente, estou expandindo meus horizontes para a **Engenharia de Dados Cloud*
 <table>
   <tr>
     <td>
-      <img src="./assets/tcgeo.png" width="280px" style="border-radius: 10px;" alt="TCGeo-RO">
+      <img src="./assets/tcgeoro.png" width="280px" style="border-radius: 10px;" alt="TCGeo-RO">
     </td>
     <td>
       <strong>Python & Cloud Computing: TCGeo-RO</strong><br>
@@ -36,7 +36,7 @@ Atualmente, estou expandindo meus horizontes para a **Engenharia de Dados Cloud*
   
   <tr>
     <td>
-      <img src="./assets/painel_do_fog.png" width="280px" style="border-radius: 10px;" alt="Painel do Fogo">
+      <img src="./assets/painel_do_fogo.png" width="280px" style="border-radius: 10px;" alt="Painel do Fogo">
     </td>
     <td>
       <strong>Monitoramento Ambiental: Painel do Fogo</strong><br>
