@@ -1,4 +1,7 @@
+<div align="center">
+
 # Olá, eu sou a Madu 👋
+</div>
 
 <img src="./assets/octocat.png" align="right" width="200" alt="Octocat">
 
@@ -12,8 +15,9 @@ Atualmente, estou expandindo meus horizontes para a **Engenharia de Dados Cloud*
 
 ---
 
-## 🛠️ Tech Stack
 <div align="center">
+
+## 🛠️ Tech Stack
 
 | Categoria | Tecnologias |
 | :--- | :--- |
@@ -26,7 +30,10 @@ Atualmente, estou expandindo meus horizontes para a **Engenharia de Dados Cloud*
 
 ---
 
+<div align="center">
+
 ## 📈 Trajetória e Impacto Profissional
+</div>
 
 Atualmente, sou estagiária de **Análise de Dados Geoespaciais e Modelagem de BD** no **TCE-RO**. Focada no desenvolvimento de soluções escaláveis que integram tecnologia, análise espacial e inteligência de dados para gerar impacto real e sustentável:
 
@@ -35,8 +42,10 @@ Atualmente, sou estagiária de **Análise de Dados Geoespaciais e Modelagem de B
 * **🔬 Coautoria Científica:** Produção de inteligência científica aplicada ao sensoriamento remoto, com foco em fenômenos climáticos extremos. Publicação no GEOINFO 2023 do artigo: *Remote Sensing Image analysis of the largest blowdown disturbance in the southwestern Brazilian Amazon.*
 
 ---
+<div align="center">
 
 ### 🚀 Projetos em Destaque
+</div>
 
 <table>
   <tr>
