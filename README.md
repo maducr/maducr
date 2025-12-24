@@ -17,16 +17,11 @@ Atualmente, estou expandindo meus horizontes para a **Engenharia de Dados Cloud*
 | **Programação** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)  |
 | **Cloud & IA** | ![Cloud](https://img.shields.io/badge/Cloud_Computing-Fundamentos-blue?style=flat-square&logo=icloud&logoColor=white) ![Prompt](https://img.shields.io/badge/Engenharia_de_Prompt-IA-blueviolet?style=flat-square) |
 
-[![card](https://github-readme-stats.vercel.app/api?username=maducr&theme=default&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Estatísticas](github-readme-stats-eight-theta.vercel.app)]
 
 [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=maducr&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 📊 Estatísticas do GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maducr&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maducr&layout=compact&theme=dark&langs_count=7" />
-</p>
 
 ---
 
