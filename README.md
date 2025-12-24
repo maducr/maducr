@@ -17,12 +17,6 @@ Atualmente, estou expandindo meus horizontes para a **Engenharia de Dados Cloud*
 | **Programação** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)  |
 | **Cloud & IA** | ![Cloud](https://img.shields.io/badge/Cloud_Computing-Fundamentos-blue?style=flat-square&logo=icloud&logoColor=white) ![Prompt](https://img.shields.io/badge/Engenharia_de_Prompt-IA-blueviolet?style=flat-square) |
 
-[![Estatísticas](github-readme-stats-eight-theta.vercel.app)]
-
-[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=maducr&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-## 📊 Estatísticas do GitHub
-
 ---
 
 ## 📈 Trajetória e Impacto Profissional
