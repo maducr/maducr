@@ -8,15 +8,34 @@ Atualmente, estou expandindo meus horizontes para a **Engenharia de Dados Cloud*
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tecnologias e Ferramentas
 
-| Categoria | Tecnologias |
+<p align="left">
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostGIS-316192?style=for-the-badge&logo=postgis&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+</p>
+
+### 🛰️ Inteligência Geográfica & Dados
+| Categoria | Stack Técnica |
 | :--- | :--- |
-| **Dados & BD** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) ![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)  |
-| **Geoespacial** | ![PostGIS](https://img.shields.io/badge/PostGIS-316192?style=flat-square&logo=postgis&logoColor=white) ![GeoServer](https://img.shields.io/badge/GeoServer-2173B3?style=flat-square&logo=geoserver&logoColor=white) ![QGIS](https://img.shields.io/badge/QGIS-589632?style=flat-square&logo=qgis&logoColor=white) ![Sensing](https://img.shields.io/badge/Sensoriamento_Remoto-66cc33?style=flat-square) |
-| **Programação** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)  |
-| **Cloud & IA** | ![Cloud](https://img.shields.io/badge/Cloud_Computing-Fundamentos-blue?style=flat-square&logo=icloud&logoColor=white) ![Prompt](https://img.shields.io/badge/Engenharia_de_Prompt-IA-blueviolet?style=flat-square) |
+| **Bancos de Dados** | `PostgreSQL` `PostGIS` `MySQL` `SQL Server` |
+| **Geoespacial** | `GeoServer` `QGIS` `Sensoriamento Remoto` `Análise Espacial` |
+| **Análise & BI** | `Power BI Avançado` `Modelagem de Dados` `Limpeza de Dados` |
+| **Desenvolvimento** | `Python` `PHP` `Laravel` `Desenvolvimento Web` |
+| **Cloud & IA** | `Fundamentos de Cloud` `Engenharia de Prompt` `Estratégias de IA` |
 
+---
+
+### 📊 Estatísticas de Código (Dinâmico)
+
+Para mostrar sua personalidade técnica, vamos adicionar um card que atualiza sozinho conforme você sobe seus projetos. Ele mostra quais linguagens você mais usa (como o exemplo que você enviou):
+
+```markdown
+<p align="center">
+  <img height="180em" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=maducr&layout=compact&langs_count=7&theme=dracula](https://github-readme-stats.vercel.app/api/top-langs/?username=maducr&layout=compact&langs_count=7&theme=dracula)" />
+</p>
 ---
 
 ## 📈 Trajetória e Impacto
