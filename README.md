@@ -1,11 +1,14 @@
 # Olá, eu sou a Madu 👋
 
+<img src="./assets/octocat.png" align="right" width="250" alt="Octocat">
+
 ### Analista de Dados | Geoprocessamento & Modelagem de Dados
 
 Sou acadêmica de **Sistemas de Informação**, focada em transformar grandes volumes de dados brutos em inteligência geográfica e soluções de impacto real para a tomada de decisão. Possuo uma base sólida em modelagem de dados, análise espacial e administração de bancos de dados relacionais.
 
 Atualmente, estou expandindo meus horizontes para a **Engenharia de Dados Cloud** e **IA**, buscando arquitetar pipelines escaláveis que unam inteligência analítica e visão geoespacial.
 
+<br clear="right">
 ---
 
 ## 🛠️ Tech Stack
@@ -76,8 +79,10 @@ Atualmente, sou estagiária de **Análise de Dados Geoespaciais e Modelagem de B
 ## 📫 Vamos nos conectar?
 
 <p align="left">
-  <a href="#" title="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mariaerodrigues.contato@gmail.com" alt="Gmail"/></a>
-  <a href="#" title="LinkedIn">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maducr" alt="LinkedIn"/></a>
+  <a href="mailto:mariaerodrigues.contato@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+  <a href="https://www.linkedin.com/in/maducr" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
 </p>
