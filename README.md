@@ -85,19 +85,20 @@ Atualmente, sou estagiária de **Análise de Dados Geoespaciais e Modelagem de B
 ---
 
 <div align="center">
-*“Transformando coordenadas em decisões, e dados em progresso.”*
+
+### *“Transformando coordenadas em decisões, e dados em progresso.”*
 </div>
+
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%">
 </p>
 
-## 📫 Vamos nos conectar?
-
 <p align="left">
+  <strong>📫 Vamos nos conectar?</strong> &nbsp;
   <a href="mailto:mariaerodrigues.contato@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" style="vertical-align:middle">
   </a>
   <a href="https://www.linkedin.com/in/maducr" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" style="vertical-align:middle">
   </a>
 </p>
