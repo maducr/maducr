@@ -17,9 +17,14 @@ Atualmente, estou expandindo meus horizontes para a **Engenharia de Dados Cloud*
 | **Programação** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)  |
 | **Cloud & IA** | ![Cloud](https://img.shields.io/badge/Cloud_Computing-Fundamentos-blue?style=flat-square&logo=icloud&logoColor=white) ![Prompt](https://img.shields.io/badge/Engenharia_de_Prompt-IA-blueviolet?style=flat-square) |
 
-[![card](https://github-readme-stats.vercel.app/api?username=iuricode&theme=default&show_icons=true)](https://github.com/maducr/github-readme-stats)
+---
+### 📊 Minhas Estatísticas
 
-[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=iuricode&layout=compact)](https://github.com/maducr/github-readme-stats)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=maducr&theme=dark&show_icons=true&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub de Madu" height="195px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maducr&layout=compact&theme=dark&langs_count=7" alt="Linguagens mais usadas" height="195px" />
+</p>
+
 ---
 
 ## 📈 Trajetória e Impacto Profissional
