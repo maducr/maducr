@@ -6,9 +6,11 @@ Sou acadêmica de **Sistemas de Informação**, focada em transformar grandes vo
 
 Atualmente, estou expandindo meus horizontes para a **Engenharia de Dados Cloud** e **IA**, buscando arquitetar pipelines escaláveis que unam inteligência analítica e visão geoespacial.
 
+🛰️ ─── 📝 ─── 💾 ─── 🤖 ─── ☁️
+
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+## 🛠️ Meu Arsenal Técnico
 
 <p align="left">
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
@@ -17,25 +19,54 @@ Atualmente, estou expandindo meus horizontes para a **Engenharia de Dados Cloud*
   <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
 </p>
 
-### 🛰️ Inteligência Geográfica & Dados
-| Categoria | Stack Técnica |
+| Categoria | Stack & Ferramentas |
 | :--- | :--- |
-| **Bancos de Dados** | `PostgreSQL` `PostGIS` `MySQL` `SQL Server` |
-| **Geoespacial** | `GeoServer` `QGIS` `Sensoriamento Remoto` `Análise Espacial` |
-| **Análise & BI** | `Power BI Avançado` `Modelagem de Dados` `Limpeza de Dados` |
-| **Desenvolvimento** | `Python` `PHP` `Laravel` `Desenvolvimento Web` |
-| **Cloud & IA** | `Fundamentos de Cloud` `Engenharia de Prompt` `Estratégias de IA` |
+| **🛰️ Geoespacial** | `PostGIS` `GeoServer` `QGIS` `Sensoriamento Remoto` |
+| **💾 Dados & BD** | `PostgreSQL` `MySQL` `SQL Server` `Modelagem de Dados` |
+| **📊 BI & Analytics** | `Power BI Avançado` `Análise Espacial` `Limpeza de Dados` |
+| **💻 Dev & Cloud** | `Python` `PHP` `Laravel` `Cloud Computing Foundations` |
+| **🤖 IA & Prompting**| `Engenharia de Prompt` `Estratégias de IA Generativa` |
 
 ---
 
-### 📊 Estatísticas de Código (Dinâmico)
+## 📈 Trajetória e Impacto
 
-Para mostrar sua personalidade técnica, vamos adicionar um card que atualiza sozinho conforme você sobe seus projetos. Ele mostra quais linguagens você mais usa (como o exemplo que você enviou):
+* **TCE-RO:** Atuo na modelagem de dados críticos e na administração da plataforma **[TCGeo-RO](https://app.tcgeo.tcero.tc.br/)**, gerenciando bancos de dados relacionais e espaciais para suporte à fiscalização.
+* **Censipam:** Atuação técnica na manutenção e suporte do **[Painel do Fogo](https://panorama.sipam.gov.br/painel-do-fogo/)**, monitorando dados geoespaciais estratégicos para a proteção da Amazônia.
+* **Coautoria Científica:** Publicação no **GEOINFO 2023** do artigo: *[Remote Sensing Image analysis of the largest blowdown disturbance](https://www.researchgate.net/publication/378333399_Remote_Sensing_Image_analysis_of_the_largest_blowdown_disturbance_in_the_southwestern_Brazilian_Amazon_The_case_of_Pacaas_Novos_National_Park)*.
+* **Brasil Digital Telecom:** Experiência com arquitetura de dados MySQL, backend em Laravel e dashboards de performance em Power BI.
 
-```markdown
+---
+
+## 🚀 Roadmap de Evolução
+
+| Status | Meta | Foco Técnico |
+| :---: | :--- | :--- |
+| 🎓 | **Sistemas de Informação** | Conclusão da Graduação |
+| ✅ | **Cloud Foundations** | Certificação em Fundamentos de Cloud |
+| 🏗️ | **Data Engineering** | PySpark, Airflow e Pipelines de Dados |
+| 🤖 | **MLOps & GeoAI** | Deploy de modelos de IA aplicados ao Geo |
+| 🌍 | **Carreira Global** | Atuação 100% Remota e Liberdade Financeira |
+
+---
+
+## 📊 Estatísticas (Python & SQL Focus)
+
 <p align="center">
-  <img height="180em" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=maducr&layout=compact&langs_count=7&theme=dracula](https://github-readme-stats.vercel.app/api/top-langs/?username=maducr&layout=compact&langs_count=7&theme=dracula)" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maducr&layout=compact&langs_count=7&theme=dracula" />
 </p>
+
+---
+
+## 🛠️ Tech Stack
+
+| Categoria | Tecnologias |
+| :--- | :--- |
+| **Dados & BD** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) ![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)  |
+| **Geoespacial** | ![PostGIS](https://img.shields.io/badge/PostGIS-316192?style=flat-square&logo=postgis&logoColor=white) ![GeoServer](https://img.shields.io/badge/GeoServer-2173B3?style=flat-square&logo=geoserver&logoColor=white) ![QGIS](https://img.shields.io/badge/QGIS-589632?style=flat-square&logo=qgis&logoColor=white) ![Sensing](https://img.shields.io/badge/Sensoriamento_Remoto-66cc33?style=flat-square) |
+| **Programação** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)  |
+| **Cloud & IA** | ![Cloud](https://img.shields.io/badge/Cloud_Computing-Fundamentos-blue?style=flat-square&logo=icloud&logoColor=white) ![Prompt](https://img.shields.io/badge/Engenharia_de_Prompt-IA-blueviolet?style=flat-square) |
+
 ---
 
 ## 📈 Trajetória e Impacto
