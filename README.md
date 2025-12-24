@@ -95,6 +95,7 @@ Atualmente, sou estagiária de **Análise de Dados Geoespaciais e Modelagem de B
 
 <p align="left">
   <strong>📫 Vamos nos conectar?</strong> &nbsp;
+  <br>
   <a href="mailto:mariaerodrigues.contato@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" style="vertical-align:middle">
   </a>
