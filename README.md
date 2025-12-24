@@ -2,7 +2,7 @@
 
 ### Analista de Dados | Geoprocessamento & Modelagem de Dados
 
-Sou acadêmica de **Sistemas de Informação**, focada em transformar grandes volumes de dados brutos em inteligência geográfica e soluções de impacto real para a tomada de decisão. Possuo uma base sólida em modelagem de dados, análise espacial e administração de bancos de dados relacionais[cite: 37, 42].
+Sou acadêmica de **Sistemas de Informação**, focada em transformar grandes volumes de dados brutos em inteligência geográfica e soluções de impacto real para a tomada de decisão. Possuo uma base sólida em modelagem de dados, análise espacial e administração de bancos de dados relacionais.
 
 Atualmente, estou expandindo meus horizontes para a **Engenharia de Dados Cloud** e **IA**, buscando arquitetar pipelines escaláveis que unam inteligência analítica e visão geoespacial.
 
@@ -12,7 +12,7 @@ Atualmente, estou expandindo meus horizontes para a **Engenharia de Dados Cloud*
 
 | Categoria | Tecnologias |
 | :--- | :--- |
-| **Dados & BD** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) ![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) [cite: 11, 12, 13, 50] |
+| **Dados & BD** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) ![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)  |
 | **Geoespacial** | ![PostGIS](https://img.shields.io/badge/PostGIS-316192?style=flat-square&logo=postgis&logoColor=white) ![GeoServer](https://img.shields.io/badge/GeoServer-2173B3?style=flat-square&logo=geoserver&logoColor=white) ![QGIS](https://img.shields.io/badge/QGIS-589632?style=flat-square&logo=qgis&logoColor=white) ![Sensing](https://img.shields.io/badge/Sensoriamento_Remoto-66cc33?style=flat-square) |
 | **Programação** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)  |
 | **Cloud & IA** | ![Cloud](https://img.shields.io/badge/Cloud_Computing-Fundamentos-blue?style=flat-square&logo=icloud&logoColor=white) ![Prompt](https://img.shields.io/badge/Engenharia_de_Prompt-IA-blueviolet?style=flat-square) |
