@@ -6,7 +6,6 @@ Sou acadêmica de **Sistemas de Informação**, focada em transformar grandes vo
 
 Atualmente, estou expandindo meus horizontes para a **Engenharia de Dados Cloud** e **IA**, buscando arquitetar pipelines escaláveis que unam inteligência analítica e visão geoespacial.
 
-
 ---
 
 ## 🛠️ Tech Stack
@@ -18,11 +17,16 @@ Atualmente, estou expandindo meus horizontes para a **Engenharia de Dados Cloud*
 | **Programação** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)  |
 | **Cloud & IA** | ![Cloud](https://img.shields.io/badge/Cloud_Computing-Fundamentos-blue?style=flat-square&logo=icloud&logoColor=white) ![Prompt](https://img.shields.io/badge/Engenharia_de_Prompt-IA-blueviolet?style=flat-square) |
 
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" alt="MongoDB"/></code>
+
+[![card](https://github-readme-stats.vercel.app/api?username=iuricode&theme=default&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=iuricode&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ---
 
 ## 📈 Trajetória e Impacto Profissional
 
-Atualmente consolidando experiência na intersecção entre **Engenharia de Dados**, **Gestão Pública** e **Sustentabilidade**:
+Atualmente, sou estagiária de **Análise de Dados Geoespaciais e Modelagem de BD** no **TCE-RO**. Focada no desenvolvimento de soluções escaláveis que integram tecnologia, análise espacial e inteligência de dados para gerar impacto real e sustentável:
 
 * **🏛️ TCE-RO:** Atuação na modelagem de dados críticos e administração da plataforma *TCGeo-RO*, gerenciamento de bancos relacionais e espaciais (PostgreSQL/PostGIS) para o suporte à fiscalização estadual e controle externo.
 * **🌳 Censipam:** Atuação técnica na manutenção e suporte do *Painel do Fogo*, uma plataforma estratégica de monitoramento geoespacial para a proteção da Amazônia.
@@ -71,8 +75,12 @@ Atualmente consolidando experiência na intersecção entre **Engenharia de Dado
 
 ## 📫 Vamos nos conectar?
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maducr)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mariaerodrigues.contato@gmail.com)
+<p align="left">
+  <a href="#" title="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mariaerodrigues.contato@gmail.com" alt="Gmail"/></a>
+  <a href="#" title="LinkedIn">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maducr" alt="LinkedIn"/></a>
+</p>
 
----
 *“Transformando coordenadas em decisões, e dados em progresso.”*
+https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif
