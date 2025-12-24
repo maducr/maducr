@@ -1,21 +1,10 @@
 # Olá, eu sou a Madu 👋
 
-<table>
-  <tr>
-    <td>
-      <h3>Analista de Dados | Geoprocessamento & Modelagem de Dados</h3>
-      <p>
-        Sou acadêmica de <strong>Sistemas de Informação</strong>, focada em transformar grandes volumes de dados brutos em inteligência geográfica e soluções de impacto real para a tomada de decisão. Possuo uma base sólida em modelagem de dados, análise espacial e administração de bancos de dados relacionais.
-      </p>
-      <p>
-        Atualmente, estou expandindo meus horizontes para a <strong>Engenharia de Dados Cloud</strong> e <strong>IA</strong>, buscando arquitetar pipelines escaláveis que unam inteligência analítica e visão geoespacial.
-      </p>
-    </td>
-    <td align="center" valign="middle">
-      <img src="./assets/octocat.png" width="200px" alt="GitHub Octocat">
-    </td>
-  </tr>
-</table>
+### Analista de Dados | Geoprocessamento & Modelagem de Dados
+
+Sou acadêmica de **Sistemas de Informação**, focada em transformar grandes volumes de dados brutos em inteligência geográfica e soluções de impacto real para a tomada de decisão. Possuo uma base sólida em modelagem de dados, análise espacial e administração de bancos de dados relacionais.
+
+Atualmente, estou expandindo meus horizontes para a **Engenharia de Dados Cloud** e **IA**, buscando arquitetar pipelines escaláveis que unam inteligência analítica e visão geoespacial.
 
 ---
 
